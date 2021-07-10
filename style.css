@@ -1,0 +1,144 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('back.jpg');
+background-repeat: no-repeat;
+  background-size: cover;
+background-position: center;
+  
+}
+.box{
+  width: 450px;
+  background: #f35588;
+  border-radius: 30px;
+  padding: 100px;
+  text-align: center;
+  margin: auto;
+  box-shadow: 10px 5px 20px 10px rgba(27, 18, 18, 0.33);
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+
+.box:hover{
+  background-color:#00000000;
+  
+}
+.textweb{
+  text-shadow: 3px 7px 5px rgba(27, 18, 18, 0.7);
+}
+
+.textweb:hover{
+  color: red;
+  text-shadow: 3px 7px 3px rgba(255, 255, 255, 0.7);
+
+}
+
+.essay{
+
+border-radius: 15px;
+
+
+padding: 30px;
+opacity: 0.8;
+box-shadow: 5px 2px 25px 3px rgba(0, 0, 0, 0.6);
+background-color:rgba(90, 70, 80, 0.4);
+
+}
+
+.essay:hover{
+  background-color: rgb(40, 52, 221);
+}
+
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  box-shadow: 2px 3px 30px 1px rgb(87, 11, 70);
+  height: 200px;
+}
+
+.headline{
+  font-size:30px; color: #f0f0f0;
+}
+.headline:hover{
+
+color: #f35588;
+box-shadow: 2px 3px 30px 2px rgb(245, 123, 184);
+border-radius: 20px;
+}
+
+.wanna{
+  text-align:center; color: white;
+}
+
+.wanna:hover{
+  color: firebrick;
+  text-shadow: 3px 2px 3px rgba(212, 253, 26, 0.7) ;
+}
+
+.box-img:hover{
+  box-shadow: 2px 6px 30px 1px rgb(255, 255, 255);
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 60px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #b9b9b9;
+}
+.fa-facebook{
+  font-size: 60px;
+ 
+}
+.fa-twitter{
+  font-size: 60px;
+  
+}
+.fa-youtube{
+font-size: 60px;
+}
+#basics{
+  "background-color:powderblue;
+}
+
+.info{
+
+    border-radius: 20px;
+box-shadow: 3px 5px 40px 5px rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            color: #f0f0f0;
+            margin: 10px;
+            background-color: magenta;
+            
+
+    
+
+  }
+
+  .info:hover{
+    background-color: red;
+  }
